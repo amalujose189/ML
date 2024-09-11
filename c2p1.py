@@ -1,5 +1,5 @@
 import numpy as np
-print("SJC23MCA-2027: FIDHA FATHIMA")
+print("SJC23MCA-2027: Amalu Jose")
 print("Batch : MCA 2023-25")
 
 array_3d = np.array([ [[1.5, 2.6, 3.7, 4.8],[5.1, 6.2, 7.3,
