@@ -8,7 +8,7 @@ axis[0].plot(day,drinks,color="cyan",marker="h",linestyle="--",markersize=10,mar
 axis[0].set_xlabel("Days")
 axis[0].set_ylabel("Drinks")
 axis[0].set_title("Sales Data 1",loc="right")
-axis[0].set_title("Jerry James \n MCA 23-25",loc="left")
+axis[0].set_title("amalu jose\n MCA 23-25",loc="left")
 axis[0].grid(True,color="blue",linestyle="dotted")
 
 
