@@ -5,7 +5,7 @@ height=np.random.normal([ 61,63, 64, 66, 68, 69, 71, 71.5, 72, 72.5, 73, 73.5, 7
 
 plt.hist(height,bins=range(40,110,5),color="lightblue")
 plt.title("Cherry tree height",loc="left")
-plt.title("Jerry James \nMCA 23-25",loc="right")
+plt.title("Amalu Jose \nMCA 23-25",loc="right")
 plt.xlabel("Height")
 plt.ylabel("Frequency")
 
