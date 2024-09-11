@@ -1,5 +1,5 @@
 import numpy as np
-print("Jerry James")
+
 arrays=np.arange(1,11,1)
 print(f"Array: {arrays}")
 print(f"First 4 elements {arrays[:4]}")
