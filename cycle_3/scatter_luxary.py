@@ -10,7 +10,7 @@ plt.subplots(figsize=(7,6))
 plt.xlabel("Months",fontsize=18)
 plt.ylabel("Sales of segments")
 plt.title("Sales data")
-plt.title("Jerry James \nMCA 23-25",loc="right")
+plt.title("Amalu Jose \nMCA 23-25",loc="right")
 
 plt.scatter(months,aff_seg,label="Affordable segment",color="pink")
 plt.scatter(months,lux_seg,label="Luxury segment",color="red")
