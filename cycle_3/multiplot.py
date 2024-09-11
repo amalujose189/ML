@@ -15,7 +15,7 @@ plt.plot(months,sup_lux_seg,label="super luxury",color="green",linestyle="dotted
 plt.legend()
 
 plt.title("Sales data",loc="left")
-plt.title("Jerry James \nMCA 23-25",loc="right")
+plt.title("Amalu Jose \nMCA 23-25",loc="right")
 plt.xlabel("Months")
 plt.ylabel("Sales of segments")
 plt.show()
